@@ -7,8 +7,8 @@ const footerLinks = {
     { name: "Exterior Painting", path: "/services#exterior" },
     { name: "Commercial Painting", path: "/services#commercial" },
     { name: "Garage Door Refacing", path: "/services#consultation" },
-    { name: "Baseboard Refacing", path: "/services#consultation" }
-    { name: "Window Refacing", path: "/services#consultation" }
+    { name: "Baseboard Refacing", path: "/services#consultation" },
+    { name: "Window Refacing", path: "/services#consultation" },
   ],
   company: [
     { name: "About Us", path: "/about" },
