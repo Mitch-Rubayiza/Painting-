@@ -6,7 +6,8 @@ const footerLinks = {
     { name: "Interior Painting", path: "/services#interior" },
     { name: "Exterior Painting", path: "/services#exterior" },
     { name: "Commercial Painting", path: "/services#commercial" },
-    { name: "Colour Consultation", path: "/services#consultation" },
+    { name: "Colour Garage Door Painting", path: "/services#consultation" },
+    { name: "Colour Baseboard Painting", path: "/services#consultation" }
   ],
   company: [
     { name: "About Us", path: "/about" },
