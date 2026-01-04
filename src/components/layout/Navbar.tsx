@@ -43,13 +43,13 @@ export function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 group">
           <div className="w-10 h-10 rounded-lg bg-gradient-accent flex items-center justify-center">
-            <span className="text-accent-foreground font-heading font-bold text-lg">CP</span>
+            <span className="text-accent-foreground font-heading font-bold text-lg">MP</span>
           </div>
           <span className={cn(
             "font-heading font-bold text-xl transition-colors",
             isScrolled ? "text-foreground" : "text-primary-foreground"
           )}>
-            Condo Paints
+            Mitch Painting
           </span>
         </Link>
 
